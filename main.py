@@ -1,4 +1,6 @@
-""" Script for OCR of Text from PDFs and images """
+ """ 
+ Script for OCR of Text from PDFs and images 
+ """
 
 import os
 from pdf2image import convert_from_path
